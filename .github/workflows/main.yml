@@ -29,6 +29,7 @@ jobs:
         env:
           ACCESS_CODE: banana
           SCHEDULER_ENABLED: "false"
+          GARSS_SKIP_MAIL: '1'
         run: docker compose -f garss-studio/docker-compose.yml up --build -d
       - name: Wait for GARSS Studio
         run: |
