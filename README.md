@@ -1,17 +1,17 @@
 # 每日信息简报
 
-> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-09-01 09:00:06 · 当天新文章带 🌈 标志
+> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-09-02 07:48:17 · 当天新文章带 🌈 标志
 
 ## 科技资讯
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| K001 | 少数派 | 数字工具与效率方法 | [‣ 本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2 \| 2026-08-31](https://sspai.com/post/114043)<br/>[‣ 派评 \| 近期值得关注的 App \| 2026-08-31](https://sspai.com/post/114041) | [订阅地址](https://sspai.com/feed) |
+| K001 | 少数派 | 数字工具与效率方法 | [‣ 社区速递 156 \| 满血全功能磁吸转换头与手机 AI 通话的真实体验 🌈 2026-09-01](https://sspai.com/post/114078)<br/>[‣ 线下活动 \| 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会 🌈 2026-09-01](https://sspai.com/post/114071) | [订阅地址](https://sspai.com/feed) |
 | K002 | 36氪 | 创投与科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://36kr.com) | [订阅地址](https://36kr.com/feed) |
-| K003 | 爱范儿 | 消费科技与新品 | [‣ 像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功 🌈 2026-09-01](https://www.ifanr.com/1677538?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试 🌈 2026-09-01](https://www.ifanr.com/1677753?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
-| K004 | Solidot | 开源与极客新闻 | [‣ OpenShot 4.0 释出 \| 2026-08-31](https://www.solidot.org/story?sid=85246)<br/>[‣ 加州议会通过年龄验证法案，Linux BSD 豁免 \| 2026-08-31](https://www.solidot.org/story?sid=85245) | [订阅地址](https://www.solidot.org/index.rss) |
-| K005 | The Verge | 英文科技媒体 | [‣ The Google TV Streamer now costs $50 more \| 2026-08-31](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase)<br/>[‣ JMGO’s very bright all-in-one projector looks ideal for gamers and sports \| 2026-08-31](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs) | [订阅地址](https://www.theverge.com/rss/index.xml) |
-| K006 | Ars Technica | 英文科技深度报道 | [‣ The Bentley Supersports: A stripped-out engineer's indulgence \| 2026-08-31](https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/)<br/>[‣ Trump admin shelves Cyclospora research despite record-breaking outbreak \| 2026-08-31](https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
+| K003 | 爱范儿 | 消费科技与新品 | [‣ 3899 元！戴森发布 AI 牙刷：有水牙线不够，还要塞个摄像头 🌈 2026-09-01](https://www.ifanr.com/1678053?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 地表最强四缸守不住了！丰田 GR 硬刚 AMG，500 马力小跑车即将入场 🌈 2026-09-01](https://www.ifanr.com/1677994?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
+| K004 | Solidot | 开源与极客新闻 | [‣ 小规模民调显示七成韩国民众支持限制青少年使用社交网络 🌈 2026-09-01](https://www.solidot.org/story?sid=85257)<br/>[‣ Softaculous 遭遇长达 33 小时的 BGP 路由劫持 🌈 2026-09-01](https://www.solidot.org/story?sid=85256) | [订阅地址](https://www.solidot.org/index.rss) |
+| K005 | The Verge | 英文科技媒体 | [‣ Google needs Hollywood more than the studios need AI 🌈 2026-09-01](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)<br/>[‣ Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work 🌈 2026-09-01](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1) | [订阅地址](https://www.theverge.com/rss/index.xml) |
+| K006 | Ars Technica | 英文科技深度报道 | [‣ CDC reported then deleted two measles deaths that were questioned by RFK Jr. 🌈 2026-09-01](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/)<br/>[‣ New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official 🌈 2026-09-01](https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
 
 ## 技术博客
 
@@ -27,8 +27,8 @@
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
 | D001 | GitHub Trending | 每日热门开源项目（全语言） | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/github/trending/daily/any) |
-| D002 | V2EX 热门 | 开发者社区热议 | [‣ 礼品卡咋买的？ 现在支付宝 pockyt 全部缺货，有其他靠谱渠道吗 \| 2026-08-31](https://www.v2ex.com/t/1238365)<br/>[‣ 路由器坏了，佬们能否推荐一款 \| 2026-08-31](https://www.v2ex.com/t/1238361) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
-| D003 | Hacker News | 英文技术社区头版 | [‣ Evidence of Fraud in an Influential Study About Procrastination \| 2026-08-31](https://datacolada.org/138)<br/>[‣ Run macOS Software on Linux \| 2026-08-31](https://www.darlinghq.org/) | [订阅地址](https://hnrss.org/frontpage) |
+| D002 | V2EX 热门 | 开发者社区热议 | [‣ 买车需求。 🌈 2026-09-01](https://www.v2ex.com/t/1238661)<br/>[‣ 一直不理解 skills， 这不就是提示词吗？ 🌈 2026-09-01](https://www.v2ex.com/t/1238642) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
+| D003 | Hacker News | 英文技术社区头版 | [‣ My local model setup on an M4 Pro Mac Mini 🌈 2026-09-01](https://lws.io/blog/my-local-model-setup/)<br/>[‣ Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos 🌈 2026-09-01](https://masteranza.github.io/weedout/) | [订阅地址](https://hnrss.org/frontpage) |
 
 ## 热榜快讯
 
@@ -36,13 +36,13 @@
 | --- | --- | --- | --- | --- |
 | H001 | 微博热搜 | 全网热点风向标 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/weibo/search/hot) |
 | H002 | 百度热搜 | 搜索热点风向 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/baidu/top) |
-| H003 | 知乎热榜 | 深度讨论热点 | [‣ 华为上半年营收 4678 亿元，归母净利润 234.28 亿元，如何看待其业绩表现？ \| 2026-08-31](https://www.zhihu.com/question/2077814556945135529)<br/>[‣ 演员王鸥发文称正独自养育一个孩子，对此你有哪些祝福？ \| 2026-08-31](https://www.zhihu.com/question/2077802961162301807) | [订阅地址](http://rsshub:1200/zhihu/hot) |
-| H004 | B站排行榜 | 全站热门视频 | [‣ 我看开学未必有我忧郁 \| 2026-08-31](https://www.bilibili.com/video/BV1nktx6mER5)<br/>[‣ 全程高能！队友接连失踪？活着并逃离这里！！！「逃离疯人院」 \| 2026-08-31](https://www.bilibili.com/video/BV1CGtp66EEM) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
+| H003 | 知乎热榜 | 深度讨论热点 | [‣ 陕西咸阳「男子将妻子推下土崖致死」一案将择期宣判，被告人称女方有错在先，如何从法律角度解读？ 🌈 2026-09-01](https://www.zhihu.com/question/2078178879311540619)<br/>[‣ 如何看待宇树回应「重处罚少奖励」、100 元报销须王兴兴审批，称很多内容不实？公司该如何设计奖惩机制？ 🌈 2026-09-01](https://www.zhihu.com/question/2078162988490383384) | [订阅地址](http://rsshub:1200/zhihu/hot) |
+| H004 | B站排行榜 | 全站热门视频 | [‣ 【铁豆钢蛋】你好 斌斌！ \| 2026-08-31](https://www.bilibili.com/video/BV1KxtY6kEwY)<br/>[‣ 带精神小妹买衣服，并回复评论区的一些评论 \| 2026-08-31](https://www.bilibili.com/video/BV1swt86hE64) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
 | H005 | 豆瓣正在热映 | 影讯速览 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/douban/movie/playing) |
 
 ## 英文媒体
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| E001 | TechCrunch | 创投资讯 | [‣ Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year 🌈 2026-09-01](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/)<br/>[‣ Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI 🌈 2026-09-01](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) | [订阅地址](https://techcrunch.com/feed/) |
-| E002 | MIT Technology Review | 技术趋势深度 | [‣ The Hugging Face hack could indicate cultural issues at OpenAI \| 2026-08-31](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)<br/>[‣ The Download: a secretive antiaging drug and joining virtual power plants \| 2026-08-31](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) | [订阅地址](https://www.technologyreview.com/feed/) |
+| E001 | TechCrunch | 创投资讯 | [‣ Reliance’s JioHotstar takes its streaming empire global — without sports 🌈 2026-09-01](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)<br/>[‣ Apple follows Google in adopting Trump’s ‘Lake America’ name 🌈 2026-09-01](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/) | [订阅地址](https://techcrunch.com/feed/) |
+| E002 | MIT Technology Review | 技术趋势深度 | [‣ How AI plotted an interstellar journey to Alpha Centauri 🌈 2026-09-01](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)<br/>[‣ Making the AI-powered case for legacy modernization 🌈 2026-09-01](https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/) | [订阅地址](https://www.technologyreview.com/feed/) |
