@@ -1,17 +1,17 @@
 # 每日信息简报
 
-> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-09-13 07:44:59 · 当天新文章带 🌈 标志
+> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-09-14 07:54:00 · 当天新文章带 🌈 标志
 
 ## 科技资讯
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| K001 | 少数派 | 数字工具与效率方法 | [‣ 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南 🌈 2026-09-12](https://sspai.com/post/114461)<br/>[‣ 本周看什么 \| 最近值得一看的 7 部作品 🌈 2026-09-12](https://sspai.com/post/114458) | [订阅地址](https://sspai.com/feed) |
+| K001 | 少数派 | 数字工具与效率方法 | [‣ 搭建自己的 HomeLab（一）：聊聊我的硬件清单 🌈 2026-09-13](https://sspai.com/post/113880)<br/>[‣ 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南 🌈 2026-09-13](https://sspai.com/post/114461) | [订阅地址](https://sspai.com/feed) |
 | K002 | 36氪 | 创投与科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://36kr.com) | [订阅地址](https://36kr.com/feed) |
-| K003 | 爱范儿 | 消费科技与新品 | [‣ 特努斯回答一切，那个懂技术的苹果 CEO 回来了 🌈 2026-09-12](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 讲讲 Duo 作为科技产品命名的前世今生 🌈 2026-09-12](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
-| K004 | Solidot | 开源与极客新闻 | [‣ 因 NASA 削减预算 ESA 将独立完成金星探索项目 \| 2026-09-11](https://www.solidot.org/story?sid=85357)<br/>[‣ 尼泊尔用大疆无人机运送遗体和食物 \| 2026-09-11](https://www.solidot.org/story?sid=85356) | [订阅地址](https://www.solidot.org/index.rss) |
-| K005 | The Verge | 英文科技媒体 | [‣ OpenAI’s rogue AI tried to hack another company in May 🌈 2026-09-12](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)<br/>[‣ Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ 🌈 2026-09-12](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised) | [订阅地址](https://www.theverge.com/rss/index.xml) |
-| K006 | Ars Technica | 英文科技深度报道 | [‣ I spent $4,000 on a robot dog from China 🌈 2026-09-12](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/)<br/>[‣ Some satellite companies still have an appetite for boutique launch services 🌈 2026-09-12](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
+| K003 | 爱范儿 | 消费科技与新品 | [‣ 特努斯回答一切，那个懂技术的苹果 CEO 回来了 \| 2026-09-12](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 讲讲 Duo 作为科技产品命名的前世今生 \| 2026-09-12](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
+| K004 | Solidot | 开源与极客新闻 | [‣ 暴雪宣布 FPS 版《星际争霸》 🌈 2026-09-13](https://www.solidot.org/story?sid=85362)<br/>[‣ 墨西哥毒贩涉足加密货币挖矿 🌈 2026-09-13](https://www.solidot.org/story?sid=85361) | [订阅地址](https://www.solidot.org/index.rss) |
+| K005 | The Verge | 英文科技媒体 | [‣ Trump and Mike Johnson think the AI industry is overreacting 🌈 2026-09-13](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)<br/>[‣ Apple is reportedly working on iPhone game controllers 🌈 2026-09-13](https://www.theverge.com/tech/994426/apple-iphone-game-controllers) | [订阅地址](https://www.theverge.com/rss/index.xml) |
+| K006 | Ars Technica | 英文科技深度报道 | [‣ Unvaccinated Pennsylvania woman died of measles complications, coroner says 🌈 2026-09-13](https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/)<br/>[‣ I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it. 🌈 2026-09-13](https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
 
 ## 技术博客
 
@@ -27,8 +27,8 @@
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
 | D001 | GitHub Trending | 每日热门开源项目（全语言） | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/github/trending/daily/any) |
-| D002 | V2EX 热门 | 开发者社区热议 | [‣ 有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距 🌈 2026-09-12](https://www.v2ex.com/t/1241596)<br/>[‣ vibe coding 的代码你怎么放心上线？ 🌈 2026-09-12](https://www.v2ex.com/t/1241529) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
-| D003 | Hacker News | 英文技术社区头版 | [‣ Killing with a car costs $1.6M, California requires drivers to carry $30K 🌈 2026-09-12](https://maxmautner.com/2026/09/11/liability-coverage.html)<br/>[‣ StarCraft returns in 2030 as an open-world shooter 🌈 2026-09-12](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter) | [订阅地址](https://hnrss.org/frontpage) |
+| D002 | V2EX 热门 | 开发者社区热议 | [‣ 北京这下无人机算是彻底了。 🌈 2026-09-13](https://www.v2ex.com/t/1241706)<br/>[‣ pdd 的金领冠真的不能买吗？ 🌈 2026-09-13](https://www.v2ex.com/t/1241677) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
+| D003 | Hacker News | 英文技术社区头版 | [‣ Due to concerns about malicious applications, GPT2 will not be released (2019) 🌈 2026-09-13](https://openai.com/index/better-language-models/)<br/>[‣ The Contagion of Fear 🌈 2026-09-13](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/) | [订阅地址](https://hnrss.org/frontpage) |
 
 ## 热榜快讯
 
@@ -36,13 +36,13 @@
 | --- | --- | --- | --- | --- |
 | H001 | 微博热搜 | 全网热点风向标 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/weibo/search/hot) |
 | H002 | 百度热搜 | 搜索热点风向 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/baidu/top) |
-| H003 | 知乎热榜 | 深度讨论热点 | [‣ iPhone 18 Pro 和 Max 开启预购，你抢到了吗？ 🌈 2026-09-12](https://www.zhihu.com/question/2082209639156768904)<br/>[‣ 名校硕士五轮面试全过却因第一学历专科遭拒，为何不能从一开始就说明学历要求？如此看重第一学历合理吗？ 🌈 2026-09-12](https://www.zhihu.com/question/2082169271191168289) | [订阅地址](http://rsshub:1200/zhihu/hot) |
-| H004 | B站排行榜 | 全站热门视频 | [‣ 模仿派对，配音挑战大赛 🌈 2026-09-12](https://www.bilibili.com/video/BV1ZqYX6YEsu)<br/>[‣ 《原神》7.1版本PV：「往冥府的安魂歌」 🌈 2026-09-12](https://www.bilibili.com/video/BV1yuY96rEL7) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
+| H003 | 知乎热榜 | 深度讨论热点 | [‣ 如何看待Anthropic、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？ 🌈 2026-09-13](https://www.zhihu.com/question/2082571703062721521)<br/>[‣ 2026 年 WTT 澳门冠军赛，中国选手陈熠 3-4 日本选手张本美和，如何评价这场比赛？ 🌈 2026-09-13](https://www.zhihu.com/question/2082540197502088106) | [订阅地址](http://rsshub:1200/zhihu/hot) |
+| H004 | B站排行榜 | 全站热门视频 | [‣ 麒麟9050 Pro能效实测！华为Mate XT2性能有多强？ 🌈 2026-09-13](https://www.bilibili.com/video/BV1HEYv6XETo)<br/>[‣ 《魔兽世界》：“无限”宣传动画 《崭新的天地》 🌈 2026-09-13](https://www.bilibili.com/video/BV1WQYd6DEgs) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
 | H005 | 豆瓣正在热映 | 影讯速览 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/douban/movie/playing) |
 
 ## 英文媒体
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| E001 | TechCrunch | 创投资讯 | [‣ Automattic confirms Mullenweg has returned as CEO after attempted ouster by board 🌈 2026-09-12](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)<br/>[‣ OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 🌈 2026-09-12](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) | [订阅地址](https://techcrunch.com/feed/) |
+| E001 | TechCrunch | 创投资讯 | [‣ Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic 🌈 2026-09-13](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)<br/>[‣ Larry Ellison cancels $7.5 billion sale of Oracle stock 🌈 2026-09-13](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/) | [订阅地址](https://techcrunch.com/feed/) |
 | E002 | MIT Technology Review | 技术趋势深度 | [‣ Roundtables: Could AI really kill us all? \| 2026-09-11](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)<br/>[‣ The Download: biotech’s future and cheaper, cleaner steel \| 2026-09-11](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/) | [订阅地址](https://www.technologyreview.com/feed/) |
