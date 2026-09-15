@@ -1,17 +1,17 @@
 # 每日信息简报
 
-> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-09-14 07:54:00 · 当天新文章带 🌈 标志
+> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-09-15 08:17:51 · 当天新文章带 🌈 标志
 
 ## 科技资讯
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| K001 | 少数派 | 数字工具与效率方法 | [‣ 搭建自己的 HomeLab（一）：聊聊我的硬件清单 🌈 2026-09-13](https://sspai.com/post/113880)<br/>[‣ 与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南 🌈 2026-09-13](https://sspai.com/post/114461) | [订阅地址](https://sspai.com/feed) |
+| K001 | 少数派 | 数字工具与效率方法 | [‣ 派评｜近期值得关注的 App \| 2026-09-14](https://sspai.com/post/114577)<br/>[‣ Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？ \| 2026-09-14](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey) | [订阅地址](https://sspai.com/feed) |
 | K002 | 36氪 | 创投与科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://36kr.com) | [订阅地址](https://36kr.com/feed) |
-| K003 | 爱范儿 | 消费科技与新品 | [‣ 特努斯回答一切，那个懂技术的苹果 CEO 回来了 \| 2026-09-12](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 讲讲 Duo 作为科技产品命名的前世今生 \| 2026-09-12](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
-| K004 | Solidot | 开源与极客新闻 | [‣ 暴雪宣布 FPS 版《星际争霸》 🌈 2026-09-13](https://www.solidot.org/story?sid=85362)<br/>[‣ 墨西哥毒贩涉足加密货币挖矿 🌈 2026-09-13](https://www.solidot.org/story?sid=85361) | [订阅地址](https://www.solidot.org/index.rss) |
-| K005 | The Verge | 英文科技媒体 | [‣ Trump and Mike Johnson think the AI industry is overreacting 🌈 2026-09-13](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)<br/>[‣ Apple is reportedly working on iPhone game controllers 🌈 2026-09-13](https://www.theverge.com/tech/994426/apple-iphone-game-controllers) | [订阅地址](https://www.theverge.com/rss/index.xml) |
-| K006 | Ars Technica | 英文科技深度报道 | [‣ Unvaccinated Pennsylvania woman died of measles complications, coroner says 🌈 2026-09-13](https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/)<br/>[‣ I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it. 🌈 2026-09-13](https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
+| K003 | 爱范儿 | 消费科技与新品 | [‣ 早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预 🌈 2026-09-15](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 在学会数学之前，AI 先学会了大厂的虚荣心 🌈 2026-09-15](https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
+| K004 | Solidot | 开源与极客新闻 | [‣ 非洲野犬完成了横跨大陆的 4000 公里之旅 \| 2026-09-14](https://www.solidot.org/story?sid=85376)<br/>[‣ 越南关联服务器泄漏了 2.2 亿条旅客信息 \| 2026-09-14](https://www.solidot.org/story?sid=85375) | [订阅地址](https://www.solidot.org/index.rss) |
+| K005 | The Verge | 英文科技媒体 | [‣ Valve is still figuring out ‘how and when’ to do Steam Deck 2 🌈 2026-09-15](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when)<br/>[‣ Is Big Tech’s AI slowdown a safety pact or a cartel? 🌈 2026-09-15](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) | [订阅地址](https://www.theverge.com/rss/index.xml) |
+| K006 | Ars Technica | 英文科技深度报道 | [‣ RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield \| 2026-09-14](https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/)<br/>[‣ Rocket Lab is seeing red about NASA's decision on a Mars spacecraft \| 2026-09-14](https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
 
 ## 技术博客
 
@@ -27,8 +27,8 @@
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
 | D001 | GitHub Trending | 每日热门开源项目（全语言） | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/github/trending/daily/any) |
-| D002 | V2EX 热门 | 开发者社区热议 | [‣ 北京这下无人机算是彻底了。 🌈 2026-09-13](https://www.v2ex.com/t/1241706)<br/>[‣ pdd 的金领冠真的不能买吗？ 🌈 2026-09-13](https://www.v2ex.com/t/1241677) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
-| D003 | Hacker News | 英文技术社区头版 | [‣ Due to concerns about malicious applications, GPT2 will not be released (2019) 🌈 2026-09-13](https://openai.com/index/better-language-models/)<br/>[‣ The Contagion of Fear 🌈 2026-09-13](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/) | [订阅地址](https://hnrss.org/frontpage) |
+| D002 | V2EX 热门 | 开发者社区热议 | [‣ 第一次做出海产品，上线 3 个多月几乎没流量，有点迷茫了。 \| 2026-09-14](https://www.v2ex.com/t/1241853)<br/>[‣ 领证后买的房一直空关，岳父母要住 3—5 年并搬大件家具，我要同意吗？ \| 2026-09-14](https://www.v2ex.com/t/1241840) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
+| D003 | Hacker News | 英文技术社区头版 | [‣ Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS \| 2026-09-14](https://github.com/JamesRyanATX/fcbnerd)<br/>[‣ Charts built for Chat \| 2026-09-14](https://dbtcharts.com/blog/charts-built-for-chat/) | [订阅地址](https://hnrss.org/frontpage) |
 
 ## 热榜快讯
 
@@ -36,13 +36,13 @@
 | --- | --- | --- | --- | --- |
 | H001 | 微博热搜 | 全网热点风向标 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/weibo/search/hot) |
 | H002 | 百度热搜 | 搜索热点风向 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/baidu/top) |
-| H003 | 知乎热榜 | 深度讨论热点 | [‣ 如何看待Anthropic、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？ 🌈 2026-09-13](https://www.zhihu.com/question/2082571703062721521)<br/>[‣ 2026 年 WTT 澳门冠军赛，中国选手陈熠 3-4 日本选手张本美和，如何评价这场比赛？ 🌈 2026-09-13](https://www.zhihu.com/question/2082540197502088106) | [订阅地址](http://rsshub:1200/zhihu/hot) |
-| H004 | B站排行榜 | 全站热门视频 | [‣ 麒麟9050 Pro能效实测！华为Mate XT2性能有多强？ 🌈 2026-09-13](https://www.bilibili.com/video/BV1HEYv6XETo)<br/>[‣ 《魔兽世界》：“无限”宣传动画 《崭新的天地》 🌈 2026-09-13](https://www.bilibili.com/video/BV1WQYd6DEgs) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
+| H003 | 知乎热榜 | 深度讨论热点 | [‣ 于东来回应「胖东来新员工实行四年合同制」称未违反劳动法，此举是为培养更多懂健康生活的群体，你怎么看？ \| 2026-09-14](https://www.zhihu.com/question/2082930658993595019)<br/>[‣ 网友说再高端的场所给服务人员低工资也是低端场所，你怎么看这一说法？ \| 2026-09-14](https://www.zhihu.com/question/2082890668079145032) | [订阅地址](http://rsshub:1200/zhihu/hot) |
+| H004 | B站排行榜 | 全站热门视频 | [‣ 你说你要一锅端？ \| 2026-09-14](https://www.bilibili.com/video/BV1F9Y66NEVP)<br/>[‣ Re：从零开始的异世界学园生活·序 \| 2026-09-14](https://www.bilibili.com/video/BV1PeYe69EWk) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
 | H005 | 豆瓣正在热映 | 影讯速览 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/douban/movie/playing) |
 
 ## 英文媒体
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| E001 | TechCrunch | 创投资讯 | [‣ Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic 🌈 2026-09-13](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)<br/>[‣ Larry Ellison cancels $7.5 billion sale of Oracle stock 🌈 2026-09-13](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/) | [订阅地址](https://techcrunch.com/feed/) |
-| E002 | MIT Technology Review | 技术趋势深度 | [‣ Roundtables: Could AI really kill us all? \| 2026-09-11](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)<br/>[‣ The Download: biotech’s future and cheaper, cleaner steel \| 2026-09-11](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/) | [订阅地址](https://www.technologyreview.com/feed/) |
+| E001 | TechCrunch | 创投资讯 | [‣ Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let \[an AI slowdown\] happen’ \| 2026-09-14](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)<br/>[‣ OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says \| 2026-09-14](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/) | [订阅地址](https://techcrunch.com/feed/) |
+| E002 | MIT Technology Review | 技术趋势深度 | [‣ The AI industry has taken a doomer turn. What now? \| 2026-09-14](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)<br/>[‣ Donated livers can be made biologically younger \| 2026-09-14](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/) | [订阅地址](https://www.technologyreview.com/feed/) |
