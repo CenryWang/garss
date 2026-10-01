@@ -1,17 +1,17 @@
 # 每日信息简报
 
-> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-09-30 09:04:49 · 当天新文章带 🌈 标志
+> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-10-01 09:04:43 · 当天新文章带 🌈 标志
 
 ## 科技资讯
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| K001 | 少数派 | 数字工具与效率方法 | [‣ 派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等 \| 2026-09-29](https://sspai.com/post/115197)<br/>[‣ 社区速递 160 \| 水月雨首款游戏耳机与八月派友剁手清单 \| 2026-09-29](https://sspai.com/post/115153) | [订阅地址](https://sspai.com/feed) |
+| K001 | 少数派 | 数字工具与效率方法 | [‣ 从玩家的世界掠过：Bungie 的「列车」如何驶向终焉 \| 2026-09-30](https://sspai.com/post/115070)<br/>[‣ 经典任务管理软件的现代重构：新版 2Do 详解 \| 2026-09-30](https://sspai.com/post/115166) | [订阅地址](https://sspai.com/feed) |
 | K002 | 36氪 | 创投与科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://36kr.com) | [订阅地址](https://36kr.com/feed) |
-| K003 | 爱范儿 | 消费科技与新品 | [‣ 早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一 🌈 2026-09-30](https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了 🌈 2026-09-30](https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
-| K004 | Solidot | 开源与极客新闻 | [‣ 八分之一癌症病例由感染引起 \| 2026-09-29](https://www.solidot.org/story?sid=85507)<br/>[‣ 银行高管被 Deepfake 语音骗走 1 亿美元 \| 2026-09-29](https://www.solidot.org/story?sid=85506) | [订阅地址](https://www.solidot.org/index.rss) |
-| K005 | The Verge | 英文科技媒体 | [‣ Sam Altman says OpenAI won’t go public until its models are safe 🌈 2026-09-30](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)<br/>[‣ Trump orders US government to call AI ‘Super Intelligence’ 🌈 2026-09-30](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai) | [订阅地址](https://www.theverge.com/rss/index.xml) |
-| K006 | Ars Technica | 英文科技深度报道 | [‣ Most powerful obesity drug yet: People lost up to 25% of weight in trial \| 2026-09-29](https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/)<br/>[‣ Protests against OpenAI get increasingly creative \| 2026-09-29](https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
+| K003 | 爱范儿 | 消费科技与新品 | [‣ 早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款 🌈 2026-10-01](https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型 🌈 2026-10-01](https://www.ifanr.com/1682765?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
+| K004 | Solidot | 开源与极客新闻 | [‣ PS5 越狱取得突破 \| 2026-09-30](https://www.solidot.org/story?sid=85520)<br/>[‣ CNNIC 称中国生成式 AI 用户超 7 亿 \| 2026-09-30](https://www.solidot.org/story?sid=85519) | [订阅地址](https://www.solidot.org/index.rss) |
+| K005 | The Verge | 英文科技媒体 | [‣ Elon Musk’s Grokipedia has a ‘newly refreshed’ design 🌈 2026-10-01](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)<br/>[‣ The new and huger Paramount has a new co-CEO 🌈 2026-10-01](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez) | [订阅地址](https://www.theverge.com/rss/index.xml) |
+| K006 | Ars Technica | 英文科技深度报道 | [‣ Dinosaur-killing impact crater might have been teeming with life \| 2026-09-30](https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/)<br/>[‣ Fifth unvaccinated person dies of measles; CDC still not counting all deaths \| 2026-09-30](https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
 
 ## 技术博客
 
@@ -27,8 +27,8 @@
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
 | D001 | GitHub Trending | 每日热门开源项目（全语言） | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/github/trending/daily/any) |
-| D002 | V2EX 热门 | 开发者社区热议 | [‣ 农村私自搭建雨棚，硬化公共路面，怎么投诉？ \| 2026-09-29](https://www.v2ex.com/t/1245507)<br/>[‣ 和漂亮女孩订婚了 \| 2026-09-29](https://www.v2ex.com/t/1245485) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
-| D003 | Hacker News | 英文技术社区头版 | [‣ How our vibe coded website looks like a designer made it \| 2026-09-29](https://railcode.dev/blog/vibe-coded-website)<br/>[‣ Livenerf: Has Opus 5.5 been nerfed yet? \| 2026-09-29](https://github.com/ninjahawk/livenerf) | [订阅地址](https://hnrss.org/frontpage) |
+| D002 | V2EX 热门 | 开发者社区热议 | [‣ 闲鱼租了辆 SU7 Pro，押金 3000 要不回来，对方人在里面了 \| 2026-09-30](https://www.v2ex.com/t/1245781)<br/>[‣ 吐槽，公司疑似招了个没做过开发的做开发 \| 2026-09-30](https://www.v2ex.com/t/1245765) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
+| D003 | Hacker News | 英文技术社区头版 | [‣ 56k.rip – the 1996 dial-up internet experience \| 2026-09-30](https://56k.rip/)<br/>[‣ Automating Wi-Fi setup testing on the ESP32 \| 2026-09-30](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/) | [订阅地址](https://hnrss.org/frontpage) |
 
 ## 热榜快讯
 
@@ -36,13 +36,13 @@
 | --- | --- | --- | --- | --- |
 | H001 | 微博热搜 | 全网热点风向标 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/weibo/search/hot) |
 | H002 | 百度热搜 | 搜索热点风向 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/baidu/top) |
-| H003 | 知乎热榜 | 深度讨论热点 | [‣ 如何评价OpenAI发布的GPT-6.1 Sol？ \| 2026-09-29](https://www.zhihu.com/question/2088438061877178615)<br/>[‣ 如何评价 OpenAI 在 9 月 30 日召开的 DevDay 2026 中发布的内容？ \| 2026-09-29](https://www.zhihu.com/question/2088428064954901581) | [订阅地址](http://rsshub:1200/zhihu/hot) |
-| H004 | B站排行榜 | 全站热门视频 | [‣ 深不可测的恐惧：斯克拉奇溪，溯源之惧 第六章 \| 2026-09-29](https://www.bilibili.com/video/BV1Gtap6NEPB)<br/>[‣ 鸣潮优化性能啦！居然流畅了这么多？！ \| 2026-09-29](https://www.bilibili.com/video/BV1pKap6JEAz) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
+| H003 | 知乎热榜 | 深度讨论热点 | [‣ 如何评价 10 月 1 号发布的 Gemini 4 Argon？ \| 2026-09-30](https://www.zhihu.com/question/2088845041045337914)<br/>[‣ C罗社媒官宣离开国家队集训，声称「在适当的时候声明离开国家队的原因」，他这么做的原因是什么？ \| 2026-09-30](https://www.zhihu.com/question/2088829795757048100) | [订阅地址](http://rsshub:1200/zhihu/hot) |
+| H004 | B站排行榜 | 全站热门视频 | [‣ 【起名TV】给我孩子起叫“爆笑小朋友”是几个意思？？？ \| 2026-09-30](https://www.bilibili.com/video/BV1DVaZ6hEEb)<br/>[‣ 《艾希》十周年续作《艾希：续》众筹开启 \| 2026-09-30](https://www.bilibili.com/video/BV1FvaZ67Emr) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
 | H005 | 豆瓣正在热映 | 影讯速览 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/douban/movie/playing) |
 
 ## 英文媒体
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| E001 | TechCrunch | 创投资讯 | [‣ America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch \| 2026-09-29](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/)<br/>[‣ The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch \| 2026-09-29](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/) | [订阅地址](https://techcrunch.com/feed/) |
-| E002 | MIT Technology Review | 技术趋势深度 | [‣ The Download: climate tech companies to watch and AI’s discovery problem \| 2026-09-29](https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/)<br/>[‣ Coming soon: Our 2026 list of Climate Tech Companies to Watch \| 2026-09-29](https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/) | [订阅地址](https://www.technologyreview.com/feed/) |
+| E001 | TechCrunch | 创投资讯 | [‣ Google releases Gemini 4 Argon, called its most powerful model yet \| 2026-09-30](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)<br/>[‣ The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next \| 2026-09-30](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/) | [订阅地址](https://techcrunch.com/feed/) |
+| E002 | MIT Technology Review | 技术趋势深度 | [‣ The Download: OpenAI’s chief research officer explains its hacking response \| 2026-09-30](https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/)<br/>[‣ “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer \| 2026-09-30](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) | [订阅地址](https://www.technologyreview.com/feed/) |
