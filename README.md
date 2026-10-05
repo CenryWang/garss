@@ -1,17 +1,17 @@
 # 每日信息简报
 
-> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-10-04 08:22:22 · 当天新文章带 🌈 标志
+> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-10-05 08:27:09 · 当天新文章带 🌈 标志
 
 ## 科技资讯
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| K001 | 少数派 | 数字工具与效率方法 | [‣ TDS REVIEW \| CMF Clip Pro 耳夹式无线耳机体验 \| 2026-10-03](https://sspai.com/post/114922)<br/>[‣ 本周看什么 \| 最近值得一看的 8 部作品 \| 2026-10-03](https://sspai.com/post/115211) | [订阅地址](https://sspai.com/feed) |
+| K001 | 少数派 | 数字工具与效率方法 | [‣ 方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验 \| 2026-10-04](https://sspai.com/post/115308)<br/>[‣ TDS REVIEW \| CMF Clip Pro 耳夹式无线耳机体验 \| 2026-10-04](https://sspai.com/post/114922) | [订阅地址](https://sspai.com/feed) |
 | K002 | 36氪 | 创投与科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://36kr.com) | [订阅地址](https://36kr.com/feed) |
-| K003 | 爱范儿 | 消费科技与新品 | [‣ AI 视频榜全球第二，藏着一家新影视公司的野心 \| 2026-10-03](https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 你的下一台「泡面盖」，何必是塑料的？ \| 2026-10-03](https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
-| K004 | Solidot | 开源与极客新闻 | [‣ PS5 模拟器的开发取得突破 \| 2026-10-01](https://www.solidot.org/story?sid=85524)<br/>[‣ 二手 CPU 导致玩家被 Riot 封禁 \| 2026-10-01](https://www.solidot.org/story?sid=85523) | [订阅地址](https://www.solidot.org/index.rss) |
-| K005 | The Verge | 英文科技媒体 | [‣ Capcom is preparing for a ‘future where we create games together with AI’ \| 2026-10-03](https://www.theverge.com/games/1004418/capcom-ai-game-development)<br/>[‣ The best early October Prime Day deals happening now \| 2026-10-03](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october) | [订阅地址](https://www.theverge.com/rss/index.xml) |
-| K006 | Ars Technica | 英文科技深度报道 | [‣ Milt Windler, NASA flight director who helped save Apollo 13, dies at 94 \| 2026-10-03](https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/)<br/>[‣ The dawn of the age of the exoskeleton \| 2026-10-03](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
+| K003 | 爱范儿 | 消费科技与新品 | [‣ 十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学 \| 2026-10-04](https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相 \| 2026-10-04](https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
+| K004 | Solidot | 开源与极客新闻 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.solidot.org) | [订阅地址](https://www.solidot.org/index.rss) |
+| K005 | The Verge | 英文科技媒体 | [‣ The new Fitbit Edge leaks \| 2026-10-04](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks)<br/>[‣ Prick’s theatrical industrial punk is perfect for spooky season \| 2026-10-04](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review) | [订阅地址](https://www.theverge.com/rss/index.xml) |
+| K006 | Ars Technica | 英文科技深度报道 | [‣ Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife \| 2026-10-04](https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/)<br/>[‣ All hail electrification. But let’s talk about the hard part. \| 2026-10-04](https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
 
 ## 技术博客
 
@@ -27,8 +27,8 @@
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
 | D001 | GitHub Trending | 每日热门开源项目（全语言） | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/github/trending/daily/any) |
-| D002 | V2EX 热门 | 开发者社区热议 | [‣ 199 的小米充电宝放在图书馆，插着充电忘记拿走，第二天一大家被一家子（女的还考公）偷走了，我需要较真吗？ \| 2026-10-03](https://www.v2ex.com/t/1246297)<br/>[‣ 历经千辛万苦终于用上了 opus5.5. \| 2026-10-03](https://www.v2ex.com/t/1246282) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
-| D003 | Hacker News | 英文技术社区头版 | [‣ OpenAI safety leader quits, warning AI company's culture is 'broken' \| 2026-10-03](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)<br/>[‣ Federal judge calls Flock 'indiscriminate mass surveillance' \| 2026-10-03](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) | [订阅地址](https://hnrss.org/frontpage) |
+| D002 | V2EX 热门 | 开发者社区热议 | [‣ \[送码\] macOS 的活动记录和回顾软件「日影」 \| 2026-10-04](https://www.v2ex.com/t/1246425)<br/>[‣ 感觉程序员行业有点死了 \| 2026-10-04](https://www.v2ex.com/t/1246421) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
+| D003 | Hacker News | 英文技术社区头版 | [‣ 1 in 8 cancer cases are caused by infections 🌈 2026-10-05](https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say)<br/>[‣ Self-hosted HTTP tunnels with SSH and Nginx 🌈 2026-10-05](https://vincent.bernat.ch/en/blog/2026-http-over-ssh) | [订阅地址](https://hnrss.org/frontpage) |
 
 ## 热榜快讯
 
@@ -36,13 +36,13 @@
 | --- | --- | --- | --- | --- |
 | H001 | 微博热搜 | 全网热点风向标 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/weibo/search/hot) |
 | H002 | 百度热搜 | 搜索热点风向 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/baidu/top) |
-| H003 | 知乎热榜 | 深度讨论热点 | [‣ 如何看待巴勒斯坦球员因一个拇指向下的争议手势向国足道歉，澄清并无不敬之意？ \| 2026-10-03](https://www.zhihu.com/question/2089809366375293983)<br/>[‣ 警方查处孕妇驾驶摩托别车遭脚踹事件，孕妇罚款200元，对踹摩托车者予以批评教育，如何看待这一处罚结果？ \| 2026-10-03](https://www.zhihu.com/question/2089780106344362420) | [订阅地址](http://rsshub:1200/zhihu/hot) |
-| H004 | B站排行榜 | 全站热门视频 | [‣ 人狐情未了！谁不想要一个狐仙女友啊！ \| 2026-10-03](https://www.bilibili.com/video/BV1hFHh6FE41)<br/>[‣ 不不不，我不是在剪着玩，结尾就会知道了 \| 2026-10-03](https://www.bilibili.com/video/BV1xtaU6cE3Z) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
+| H003 | 知乎热榜 | 深度讨论热点 | [‣ 如何看待《我家那闺女》中代露娃称高三被父亲掌掴后离家出走一个月，父母无人寻找时，观察室内妈妈眼神冷漠？ \| 2026-10-04](https://www.zhihu.com/question/2090130201619292233)<br/>[‣ 如何看待沈伯洋竞选台北市长，蔡康永站台？ \| 2026-10-04](https://www.zhihu.com/question/2090124920986640827) | [订阅地址](http://rsshub:1200/zhihu/hot) |
+| H004 | B站排行榜 | 全站热门视频 | [‣ Mili - Rendezvous（密会）【边狱巴士】 \| 2026-10-04](https://www.bilibili.com/video/BV1yRH66VEHm)<br/>[‣ FroggyDude is on bilibili! \| 2026-10-04](https://www.bilibili.com/video/BV1yUHB6zENZ) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
 | H005 | 豆瓣正在热映 | 影讯速览 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/douban/movie/playing) |
 
 ## 英文媒体
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| E001 | TechCrunch | 创投资讯 | [‣ Federal judge calls Flock ‘indiscriminate mass surveillance’ \| 2026-10-03](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)<br/>[‣ Amazon responds to data center backlash, says it no longer uses NDAs \| 2026-10-03](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) | [订阅地址](https://techcrunch.com/feed/) |
+| E001 | TechCrunch | 创投资讯 | [‣ Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions \| 2026-10-04](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)<br/>[‣ Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? \| 2026-10-04](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/) | [订阅地址](https://techcrunch.com/feed/) |
 | E002 | MIT Technology Review | 技术趋势深度 | [‣ Redefining enterprise intelligence with autonomous AI \| 2026-10-02](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/)<br/>[‣ The Download: a biological de-aging contest and why LLMs don’t reason \| 2026-10-02](https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/) | [订阅地址](https://www.technologyreview.com/feed/) |
