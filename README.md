@@ -1,17 +1,17 @@
 # 每日信息简报
 
-> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-10-17 08:10:16 · 当天新文章带 🌈 标志
+> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-10-18 07:45:09 · 当天新文章带 🌈 标志
 
 ## 科技资讯
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| K001 | 少数派 | 数字工具与效率方法 | [‣ 本周看什么 \| 最近值得一看的 13 部作品 \| 2026-10-16](https://sspai.com/post/116423)<br/>[‣ 「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式 \| 2026-10-16](https://sspai.com/post/114836) | [订阅地址](https://sspai.com/feed) |
+| K001 | 少数派 | 数字工具与效率方法 | [‣ 被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？ 🌈 2026-10-17](https://sspai.com/post/104231)<br/>[‣ 本周看什么 \| 最近值得一看的 13 部作品 🌈 2026-10-17](https://sspai.com/post/116423) | [订阅地址](https://sspai.com/feed) |
 | K002 | 36氪 | 创投与科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://36kr.com) | [订阅地址](https://36kr.com/feed) |
-| K003 | 爱范儿 | 消费科技与新品 | [‣ 预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地 \| 2026-10-16](https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 英伟达RTX Spark笔记本首发实测，我实现了WorkBuddy额度自由 \| 2026-10-16](https://www.ifanr.com/1684682?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
-| K004 | Solidot | 开源与极客新闻 | [‣ 英国中年男性自杀率达到历史最高水平 \| 2026-10-16](https://www.solidot.org/story?sid=85635)<br/>[‣ Meta 发布其开放权重模型 Muse Spark Open \| 2026-10-16](https://www.solidot.org/story?sid=85634) | [订阅地址](https://www.solidot.org/index.rss) |
-| K005 | The Verge | 英文科技媒体 | [‣ All the news about the iPhone Duo \| 2026-10-16](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)<br/>[‣ Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps \| 2026-10-16](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) | [订阅地址](https://www.theverge.com/rss/index.xml) |
-| K006 | Ars Technica | 英文科技深度报道 | [‣ OpenAI models hacked a crypto wallet and breached more websites \| 2026-10-16](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/)<br/>[‣ “thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops \| 2026-10-16](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
+| K003 | 爱范儿 | 消费科技与新品 | [‣ 早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台 🌈 2026-10-17](https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地 🌈 2026-10-17](https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=) | [订阅地址](https://www.ifanr.com/feed) |
+| K004 | Solidot | 开源与极客新闻 | [‣ 游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易 🌈 2026-10-17](https://www.solidot.org/story?sid=85638)<br/>[‣ 天文学家发现第一颗绿色恒星 🌈 2026-10-17](https://www.solidot.org/story?sid=85637) | [订阅地址](https://www.solidot.org/index.rss) |
+| K005 | The Verge | 英文科技媒体 | [‣ TikTok bans Musk documentary account 🌈 2026-10-17](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)<br/>[‣ Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast 🌈 2026-10-17](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance) | [订阅地址](https://www.theverge.com/rss/index.xml) |
+| K006 | Ars Technica | 英文科技深度报道 | [‣ Science says your boss should talk less in meetings 🌈 2026-10-17](https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/)<br/>[‣ Why BioWare's Neverwinter Nights still has thousands of active players 🌈 2026-10-17](https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
 
 ## 技术博客
 
@@ -27,8 +27,8 @@
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
 | D001 | GitHub Trending | 每日热门开源项目（全语言） | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/github/trending/daily/any) |
-| D002 | V2EX 热门 | 开发者社区热议 | [‣ 做了个网页电台：随机一站，听听世界上 3.5 万个电台此刻在播什么 \| 2026-10-16](https://www.v2ex.com/t/1249321)<br/>[‣ Bref： iPhone 、 iPad 、Mac 与 Apple TV 多平台支持的媒体播放器，欢迎大家体验 \[送码\] \| 2026-10-16](https://www.v2ex.com/t/1249294) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
-| D003 | Hacker News | 英文技术社区头版 | [‣ Why harnesses matter for energy (and token) efficiency \| 2026-10-16](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)<br/>[‣ I never authorized an integration that scans my secrets \| 2026-10-16](https://github.com/home-assistant/home-assistant.io/issues/49314) | [订阅地址](https://hnrss.org/frontpage) |
+| D002 | V2EX 热门 | 开发者社区热议 | [‣ 0 基础入行金融需要多久？ 🌈 2026-10-17](https://www.v2ex.com/t/1249646)<br/>[‣ deepseek-v4.1-flash-1017 发布了 🌈 2026-10-17](https://www.v2ex.com/t/1249603) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
+| D003 | Hacker News | 英文技术社区头版 | [‣ JDK 28 🌈 2026-10-17](https://openjdk.org/projects/jdk/28/)<br/>[‣ Chrome and Edge are removing XSLT: what breaks and what does not 🌈 2026-10-17](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/) | [订阅地址](https://hnrss.org/frontpage) |
 
 ## 热榜快讯
 
@@ -36,13 +36,13 @@
 | --- | --- | --- | --- | --- |
 | H001 | 微博热搜 | 全网热点风向标 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/weibo/search/hot) |
 | H002 | 百度热搜 | 搜索热点风向 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/baidu/top) |
-| H003 | 知乎热榜 | 深度讨论热点 | [‣ 25 岁伊藤美诚近 12 年首次无缘日本队序列，清空乒乓内容、删掉运动员身份，她会彻底告别乒坛吗？ \| 2026-10-16](https://www.zhihu.com/question/2094555391921059009)<br/>[‣ iPhone Duo一分钟全线售罄，下单发货已排到明年，你抢到了吗？折叠机能否支撑苹果股价再创新高？ \| 2026-10-16](https://www.zhihu.com/question/2094528208381145766) | [订阅地址](http://rsshub:1200/zhihu/hot) |
-| H004 | B站排行榜 | 全站热门视频 | [‣ 肾里长的石头，医生是怎么取出来的？ \| 2026-10-16](https://www.bilibili.com/video/BV17YJX6FE6F)<br/>[‣ 《绝区零》菲欧妮角色展示 \| 不要死挑战 \| 2026-10-16](https://www.bilibili.com/video/BV1d5JQ6pEFS) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
+| H003 | 知乎热榜 | 深度讨论热点 | [‣ 智界将获独立造车资质，内部人士确认公司计划上市，获独立造车资质意味着什么？对华为和奇瑞有怎样的影响？ 🌈 2026-10-17](https://www.zhihu.com/question/2094856257873995052)<br/>[‣ 妈妈因大一儿子未考技能证书，将生活费从4000元降至2000，够花吗？怎样看待这种「降费逼考证」方式？ 🌈 2026-10-17](https://www.zhihu.com/question/2094821313529565919) | [订阅地址](http://rsshub:1200/zhihu/hot) |
+| H004 | B站排行榜 | 全站热门视频 | [‣ 花费上万！真人版弹丸论破开庭！ 🌈 2026-10-17](https://www.bilibili.com/video/BV1Y2Je6BEDr)<br/>[‣ 历经一个月！我们做到了！！ 🌈 2026-10-17](https://www.bilibili.com/video/BV1dWJv6GEoH) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
 | H005 | 豆瓣正在热映 | 影讯速览 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/douban/movie/playing) |
 
 ## 英文媒体
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| E001 | TechCrunch | 创投资讯 | [‣ Replit is no longer working with Anthropic, CEO says \| 2026-10-16](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)<br/>[‣ Porsche’s electric Macan Turbo is an automotive existential crisis \| 2026-10-16](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/) | [订阅地址](https://techcrunch.com/feed/) |
+| E001 | TechCrunch | 创投资讯 | [‣ Meta removes language that raised scraping and AI training concerns 🌈 2026-10-17](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)<br/>[‣ TikTok permanently bans ‘Musk’ documentary advertising account 🌈 2026-10-17](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/) | [订阅地址](https://techcrunch.com/feed/) |
 | E002 | MIT Technology Review | 技术趋势深度 | [‣ Roundtables: A Conversation With the Creator of AI-Designed Viruses \| 2026-10-16](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)<br/>[‣ The Download: failed social media bans, and extending pets’ lives \| 2026-10-16](https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/) | [订阅地址](https://www.technologyreview.com/feed/) |
