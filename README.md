@@ -1,17 +1,17 @@
 # 每日信息简报
 
-> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-11-02 09:16:54 · 当天新文章带 🌈 标志
+> 精选 RSS 订阅聚合 · 已收录 20 个源 · 生成时间 2026-11-03 11:19:00 · 当天新文章带 🌈 标志
 
 ## 科技资讯
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| K001 | 少数派 | 数字工具与效率方法 | [‣ 派早报：Apple 智能将随 iOS 27.3 登陆中国 \| 2026-11-01](https://sspai.com/post/118191)<br/>[‣ 怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」 \| 2026-11-01](https://sspai.com/post/116991) | [订阅地址](https://sspai.com/feed) |
+| K001 | 少数派 | 数字工具与效率方法 | [‣ 派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等 🌈 2026-11-03](https://sspai.com/post/118232)<br/>[‣ 派评 \| 近期值得关注的 App 🌈 2026-11-03](https://sspai.com/post/118240) | [订阅地址](https://sspai.com/feed) |
 | K002 | 36氪 | 创投与科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://36kr.com) | [订阅地址](https://36kr.com/feed) |
 | K003 | 爱范儿 | 消费科技与新品 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.ifanr.com) | [订阅地址](https://www.ifanr.com/feed) |
-| K004 | Solidot | 开源与极客新闻 | [‣ Google AI Mode 未给网站带来流量 \| 2026-11-01](https://www.solidot.org/story?sid=85767)<br/>[‣ 数据中心抵消了过去 15 年美国的减排努力 \| 2026-11-01](https://www.solidot.org/story?sid=85766) | [订阅地址](https://www.solidot.org/index.rss) |
-| K005 | The Verge | 英文科技媒体 | [‣ NASA hopes the commercial space industry can help save Hubble \| 2026-11-01](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)<br/>[‣ Flock keeps ignoring requests to cancel its contracts \| 2026-11-01](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts) | [订阅地址](https://www.theverge.com/rss/index.xml) |
-| K006 | Ars Technica | 英文科技深度报道 | [‣ Seabirds racing home over the ocean can get jet-lagged \| 2026-10-31](https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/)<br/>[‣ The FDA wants to pull its approval of a drug. It’s not so easy. \| 2026-10-31](https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
+| K004 | Solidot | 开源与极客新闻 | [‣ 鳄鱼为何免受毁灭恐龙的小行星的影响？ \| 2026-11-02](https://www.solidot.org/story?sid=85777)<br/>[‣ 小鼠研究显示阉割有助于长寿 \| 2026-11-02](https://www.solidot.org/story?sid=85776) | [订阅地址](https://www.solidot.org/index.rss) |
+| K005 | The Verge | 英文科技媒体 | [‣ Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around \| 2026-11-02](https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints)<br/>[‣ Apple set an iPhone sales record even without a new standard iPhone \| 2026-11-02](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings) | [订阅地址](https://www.theverge.com/rss/index.xml) |
+| K006 | Ars Technica | 英文科技深度报道 | [‣ "At Home in Space" opens, caps Air and Space Museum renovation \| 2026-11-02](https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/)<br/>[‣ Why large dogs age faster than small ones, and other October research highlights \| 2026-11-02](https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/) | [订阅地址](https://feeds.arstechnica.com/arstechnica/index) |
 
 ## 技术博客
 
@@ -27,8 +27,8 @@
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
 | D001 | GitHub Trending | 每日热门开源项目（全语言） | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/github/trending/daily/any) |
-| D002 | V2EX 热门 | 开发者社区热议 | [‣ 当没 token 额度了 你会手改 AI 生成的代码吗 😂 \| 2026-11-01](https://www.v2ex.com/t/1253543)<br/>[‣ 用 AI 逆向了搜狗输入法， 让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本 \| 2026-11-01](https://www.v2ex.com/t/1253540) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
-| D003 | Hacker News | 英文技术社区头版 | [‣ America on Data Centers: 10k city council comments 🌈 2026-11-02](https://www.americansentiment.com/datacenters)<br/>[‣ U.S. workers took home their smallest share of capital since at least 1947 🌈 2026-11-02](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/) | [订阅地址](https://hnrss.org/frontpage) |
+| D002 | V2EX 热门 | 开发者社区热议 | [‣ 如何找借口拒绝医生开的中药 🌈 2026-11-03](https://www.v2ex.com/t/1254023)<br/>[‣ \[中转站推广\] 双 11 活动新用户注册送 10 元 🌈 2026-11-03](https://www.v2ex.com/t/1253999) | [订阅地址](http://rsshub:1200/v2ex/topics/hot) |
+| D003 | Hacker News | 英文技术社区头版 | [‣ Show HN: Hacker Times, a New York Times-Inspired Version Hacker News 🌈 2026-11-03](https://hackertimes.ca/)<br/>[‣ DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs 🌈 2026-11-03](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | [订阅地址](https://hnrss.org/frontpage) |
 
 ## 热榜快讯
 
@@ -36,13 +36,13 @@
 | --- | --- | --- | --- | --- |
 | H001 | 微博热搜 | 全网热点风向标 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/weibo/search/hot) |
 | H002 | 百度热搜 | 搜索热点风向 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/baidu/top) |
-| H003 | 知乎热榜 | 深度讨论热点 | [‣ 2627 赛季英超联赛英超第 9 轮利物浦 0:1 阿森纳，如何评价这场比赛？ \| 2026-11-01](https://www.zhihu.com/question/2100384760090645343)<br/>[‣ 如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？ \| 2026-11-01](https://www.zhihu.com/question/2100317442232644379) | [订阅地址](http://rsshub:1200/zhihu/hot) |
-| H004 | B站排行榜 | 全站热门视频 | [‣ 4941抽，67塔露拉 \| 2026-11-01](https://www.bilibili.com/video/BV1Gpxs6REwB)<br/>[‣ 【2026全球总决赛】11月1日 HLE vs BLG \| 2026-11-01](https://www.bilibili.com/video/BV1C8xn6YEDA) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
+| H003 | 知乎热榜 | 深度讨论热点 | [‣ 如何看待新华社公众号在11月2日发表的文章《国乒男队怎么了？》中表示：男子乒坛多极格局已成? \| 2026-11-02](https://www.zhihu.com/question/2100718638814720770)<br/>[‣ 伊朗最高领袖赋予政府谈判权限，若美落实诉求，两天内可以开谈，国际油价大跌6%，美伊谈判还有哪些变数？ \| 2026-11-02](https://www.zhihu.com/question/2100716737520058796) | [订阅地址](http://rsshub:1200/zhihu/hot) |
+| H004 | B站排行榜 | 全站热门视频 | [‣ 大家好，这里是 DeepSeek Harness，正式入驻 B 站！ \| 2026-11-02](https://www.bilibili.com/video/BV1i24P6rEmt)<br/>[‣ 哟西！故乡的樱花开了！ \| 2026-11-02](https://www.bilibili.com/video/BV1w34A62Eq2) | [订阅地址](http://rsshub:1200/bilibili/ranking) |
 | H005 | 豆瓣正在热映 | 影讯速览 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/douban/movie/playing) |
 
 ## 英文媒体
 
 | 编号 | 名称 | 描述 | 最新内容 | 订阅地址 |
 | --- | --- | --- | --- | --- |
-| E001 | TechCrunch | 创投资讯 | [‣ OpenAI might rebrand its data centers as ‘AI compute campuses’ \| 2026-11-01](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)<br/>[‣ AI can make tech CEOs’ lives easier. What about everyone else? \| 2026-11-01](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/) | [订阅地址](https://techcrunch.com/feed/) |
-| E002 | MIT Technology Review | 技术趋势深度 | [‣ The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals \| 2026-10-30](https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/)<br/>[‣ Eating disorders are on the rise. GLP-1s could make things worse. \| 2026-10-30](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/) | [订阅地址](https://www.technologyreview.com/feed/) |
+| E001 | TechCrunch | 创投资讯 | [‣ Apple may try to increase revenue by doing…something with third-party AI apps 🌈 2026-11-03](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)<br/>[‣ Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them 🌈 2026-11-03](https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/) | [订阅地址](https://techcrunch.com/feed/) |
+| E002 | MIT Technology Review | 技术趋势深度 | [‣ Raising the quality of insights in agentic analytics \| 2026-11-02](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)<br/>[‣ Stop counting tokens, start counting what ships \| 2026-11-02](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/) | [订阅地址](https://www.technologyreview.com/feed/) |
