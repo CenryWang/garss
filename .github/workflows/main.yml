@@ -6,6 +6,8 @@ on:
     branches:    
       - main
       - dev
+permissions:
+  contents: write
 jobs:
   push:
       runs-on: ${{ matrix.operating-system }}
